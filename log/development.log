@@ -15004,3 +15004,10 @@ Processing by MeetupController#index as HTML
 Completed 200 OK in 1404ms (Views: 284.8ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-06-06 17:10:36 -0400
+Processing by MeetupController#index as HTML
+  Rendering meetup/index.html.erb within layouts/application
+  Rendered meetup/index.html.erb within layouts/application (26.3ms)
+Completed 200 OK in 1783ms (Views: 759.8ms | ActiveRecord: 0.0ms)
+
+
